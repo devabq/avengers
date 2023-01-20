@@ -5,5 +5,5 @@
 <li>Josimar Ribeiro de Moura Filho</li>
 <li>Paulo Cezar de Carvalho Albuquerque</li>
 </ul>
-<p>Os códigos aqui presentes são de uma das fases de desenvolvimento do projeto e são mantidas separadas da versão final.</p> 
+<p>Os códigos aqui presentes são de uma das fases de desenvolvimento do projeto e são mantidos separadas da versão final.</p> 
 <p>Para a versão final, visite: https://github.com/pccalbuquerque/v2netredesignfinal</p>
